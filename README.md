@@ -198,6 +198,13 @@ time.sleep(2)
 driver.quit()
 print("\nAll test cases completed successfully")
 ---------------------------------------------------------------------------------------------
+
+## Output
+<img width="1600" height="998" alt="WhatsApp Image 2026-10-07 at 1 39 02 PM" src="https://github.com/user-attachments/assets/6357143a-7520-46a2-8b5a-2d739cbe9b1a" />
+<img width="1518" height="937" alt="WhatsApp Image 2026-10-07 at 1 39 03 PM" src="https://github.com/user-attachments/assets/45ea5bd9-e8a1-42e6-9621-6e70819409d0" />
+<img width="1327" height="612" alt="WhatsApp Image 2026-10-07 at 1 39 34 PM" src="https://github.com/user-attachments/assets/fba887ed-dfb5-4a40-bc42-ca7598180c18" />
+
+
 👨‍💻 Author
 Naveen Kumar T
 B.Tech – Information Technology
