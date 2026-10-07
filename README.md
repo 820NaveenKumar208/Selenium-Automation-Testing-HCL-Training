@@ -1,9 +1,10 @@
 ### Selenium Automation Testing – HCL Training
 #### 📌 Project Overview
+
 This project contains Selenium WebDriver automation test cases developed using Python as part of QA Automation / HCL training.
 
-Program
----------------------------------------------------------------------------------------------
+### Program
+```
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
@@ -197,6 +198,7 @@ print("TC10 - Confirmation alert handled successfully")
 time.sleep(2)
 driver.quit()
 print("\nAll test cases completed successfully")
+```
 ---------------------------------------------------------------------------------------------
 
 ## Output
